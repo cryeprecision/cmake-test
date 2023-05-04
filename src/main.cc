@@ -1,5 +1,7 @@
 #if 1
+#ifndef USE_IN_SOURCE_FILE
 #define USE_IN_SOURCE_FILE
+#endif
 #endif
 
 #ifdef USE_IN_SOURCE_FILE
